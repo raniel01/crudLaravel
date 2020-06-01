@@ -1,0 +1,4 @@
+tasks:
+  - init: mysqlyadmin -u root passoword 'gitpod'
+image:
+  file: .gitpod.Dockerfile
