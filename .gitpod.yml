@@ -1,4 +1,4 @@
 tasks:
-  - init: mysqlyadmin -u root passoword 'gitpod'
+  - init: mysqladmin -u root passoword 'gitpod'
 image:
   file: .gitpod.Dockerfile
