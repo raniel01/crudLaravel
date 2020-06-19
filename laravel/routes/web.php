@@ -20,3 +20,4 @@ Route::get('editar/{userId}', 'UserController@edit');
 Route::put('update/{user}', 'UserController@update');
 
 Route::delete('delete/{user}', 'UserController@delete');
+
